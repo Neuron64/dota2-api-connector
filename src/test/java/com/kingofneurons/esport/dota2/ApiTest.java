@@ -8,7 +8,7 @@ import static org.junit.Assert.assertNotNull;
 
 public class ApiTest {
 
-    private final String API_KEY = "4B1BE6B76C2B63E978962E2B38EC219E";
+    private final String API_KEY = "API-KEY";
 
     @Test
     public void TestMatchDetailed() throws Exception {
